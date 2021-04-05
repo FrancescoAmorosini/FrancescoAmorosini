@@ -1,5 +1,4 @@
 ## Hello World!! 👋
-![](https://visitor-badge.glitch.me/badge?page_id=github.com/FrancescoAmorosini)
 
 Hi everyone, I’m Francesco Amorosini and I have a Bachelor‘s Degree in Computer Engineering (Università degli Studi di Firenze). I’m 25, and right now I’m in the middle of my second-year Master’s Degree in Computer Science and Engineering at Politecnico di Milano. I’m passionate about innovation and all those technologies that are able to plant the seed of curiosity inside me, such as Cloud Computing and Machine Learning.✨
 
