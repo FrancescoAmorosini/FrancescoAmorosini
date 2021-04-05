@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11139999916&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
-[![Spotify](https://11139999916.vercel.app/api/spotify)](https://open.spotify.com/user/11139999916)
+[![Spotify](https://francescoamorosini.vercel.app/api/spotify)](https://open.spotify.com/user/11139999916)
