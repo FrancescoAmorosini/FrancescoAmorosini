@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11139999916&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-
 [![Spotify](https://spotify-github-i28igy4ix-francescoamorosini.vercel.app/api/spotify)](https://open.spotify.com/user/11139999916)
