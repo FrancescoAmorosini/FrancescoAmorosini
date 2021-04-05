@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Francesco, Cloud Engineer from Italy 🇮🇹, welcome to my GitHub profile!
-
 --- work in progress ---
