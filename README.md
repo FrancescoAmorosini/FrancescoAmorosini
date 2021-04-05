@@ -1,6 +1,6 @@
 ## Hello World!! 👋
 
-Hi everyone, I’m Francesco Amorosini and I have a Bachelor‘s Degree in Computer Engineering (Università degli Studi di Firenze). I’m 25, and right now I’m in the middle of my second-year Master’s Degree in Computer Science and Engineering at Politecnico di Milano. I’m passionate about innovation and all those technologies that are able to plant the seed of curiosity inside me, such as Cloud Computing and Machine Learning.✨
+Hi everyone, I’m Francesco and I have a Bachelor‘s Degree in Computer Engineering (Università degli Studi di Firenze). I’m 25, and right now I’m in the middle of my second-year Master’s Degree in Computer Science and Engineering at Politecnico di Milano. I’m passionate about innovation and all those technologies that are able to plant the seed of curiosity inside me, such as Cloud Computing and Machine Learning.✨
 
 I live in Milan<img src="https://img.icons8.com/color/48/000000/italy-circular.png" width="15px"> and, while I'm enjoying my last semester as a student, I'm also working part-time as Cloud Engineer for a big consulting company. 🚀
 
