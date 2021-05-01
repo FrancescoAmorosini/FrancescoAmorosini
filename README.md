@@ -13,10 +13,10 @@ I live in Milan<img src="https://img.icons8.com/color/48/000000/italy-circular.p
 [<img src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png" width="40px" alt="Java">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://www.java.com/it/)
 
 ## What I'm learning 🎓
-<img src="https://img.icons8.com/dusk/64/000000/amazon.png" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/color/48/000000/kubernetes.png" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/dusk/64/000000/docker.png" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/dusk/64/000000/linux.png" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://img.icons8.com/dusk/64/000000/amazon.png" width="40px" alt="AWS">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://aws.amazon.com/)
+[<img src="https://img.icons8.com/color/48/000000/kubernetes.png" width="40px" alt="Kubernetes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://kubernetes.io/)
+[<img src="https://img.icons8.com/dusk/64/000000/docker.png" width="40px" alt="Docker">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://www.docker.com/)
+[<img src="https://img.icons8.com/dusk/64/000000/linux.png" width="40px" alt="Linux">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://www.linux.it/)
 
 ## Random Facts About Me ❓
 <img align="right" src="https://i.pinimg.com/originals/3e/db/d3/3edbd3a875298663a46f555c7f54fa73.gif" width="460px">
