@@ -6,11 +6,11 @@ I live in Milan<img src="https://img.icons8.com/color/48/000000/italy-circular.p
 
 ## My favourite tools 🔨
 
-<img src="https://img.icons8.com/color/48/000000/jenkins.png" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/dusk/64/000000/visual-studio-code-2019.png" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/dusk/64/000000/python.png" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/dusk/64/000000/javascript.png" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[<img src="https://img.icons8.com/color/48/000000/jenkins.png" width="40px" alt="Jenkins">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://www.jenkins.io/)
+[<img src="https://img.icons8.com/dusk/64/000000/visual-studio-code-2019.png" width="40px"alt="VS Code">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://code.visualstudio.com/api/references/vscode-api)
+[<img src="https://img.icons8.com/dusk/64/000000/python.png" width="40px" alt="Python">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://www.python.org/)
+[<img src="https://img.icons8.com/dusk/64/000000/javascript.png" width="40px" alt="Javascript">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://www.javascript.com/)
+[<img src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png" width="40px" alt="Java">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;](https://www.java.com/it/)
 
 ## What I'm learning 🎓
 <img src="https://img.icons8.com/dusk/64/000000/amazon.png" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
