@@ -30,12 +30,12 @@ Scikit-learn · PyTorch · LangChain · SageMaker Pipelines · GenAI APIs · Vec
 
 ## 🎸 Random Facts About Me
 
-<img align="right" src="https://i.pinimg.com/originals/3e/db/d3/3edbd3a875298663a46f555c7f54fa73.gif" width="300px">
+<img align="right" src="https://i.pinimg.com/originals/3e/db/d3/3edbd3a875298663a46f555c7f54fa73.gif" width="460px">
 
 - I’ve been playing the guitar since I was 11 — now I play ukulele too for portability 🎶  
 - Lifelong gamer — started with a PlayStation at 5, never looked back 🎮  
 - Favorite movie? *The Lord of the Rings*. Favorite show? *BoJack Horseman* 🐴🍾  
-- Digimon was my gateway into tech — I’ve been chasing the “Digital World” ever since 👾
+- Digimons are the very first thing that got me into technology. I'm sure that most of my curiosity about digital innovation comes from my desire as a child of exploring the "Digital World". 👾
 
 ---
 
