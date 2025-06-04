@@ -6,25 +6,12 @@ I’m based in Milan 🇮🇹 and currently working at a consulting firm where I
 
 ---
 
-## 🛠️ My Daily Stack
-
-**Languages & Dev Tools**  
-Python · JavaScript · Java · VS Code
-
-**Cloud & DevOps**  
-AWS (SageMaker, Lambda, ECS, Bedrock, S3, etc.) · Docker · Kubernetes · Jenkins · Linux
-
-**Machine Learning & MLOps**  
-Scikit-learn · PyTorch · LangChain · SageMaker Pipelines · GenAI APIs · Vector Databases
-
----
-
 ## 🚧 What I’m Building & Learning
 
 - Production-ready GenAI workloads with LLMs and custom pipelines  
-- MLOps best practices for managing ML lifecycle in real-world deployments  
+- MLOps best practices for managing ML lifecycle in real-world deployments. [Here's an article](https://medium.com/storm-reply/enterprise-mlops-platforms-for-insurance-companies-on-aws-ebd149b915f2) I wrote a while ago on the matter.
 - End-to-end ownership of AI solutions — from architecture to delivery  
-- Cross-functional teamwork with AWS teams, internal stakeholders, and clients
+- Trying to make my workplace enjoyable everiday ✨
 
 ---
 
@@ -34,7 +21,9 @@ Scikit-learn · PyTorch · LangChain · SageMaker Pipelines · GenAI APIs · Vec
 
 - I’ve been playing the guitar since I was 11 — now I play ukulele too for portability 🎶  
 - Lifelong gamer — started with a PlayStation at 5, never looked back 🎮  
-- Favorite movie? *The Lord of the Rings*. Favorite show? *BoJack Horseman* 🐴🍾  
+- Favorite movie: **The Lord of the Rings** 🧙‍♂️  
+- Favorite TV series: **BoJack Horseman** 🐴🍾  
+- Favorite video game: **Nine Sols** 🐉  
 - Digimons are the very first thing that got me into technology. I'm sure that most of my curiosity about digital innovation comes from my desire as a child of exploring the "Digital World". 👾
 
 ---
